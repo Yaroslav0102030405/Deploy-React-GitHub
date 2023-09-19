@@ -1,1 +1,1 @@
-# deploy-react-github
+# Deploy React приложения на GitHub
